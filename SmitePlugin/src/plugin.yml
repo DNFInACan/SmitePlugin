@@ -1,0 +1,12 @@
+main: com.dev_1.SmitePlugin.SmitePlugin
+name: TestPlugin
+api-version: 1.14
+author: dev_1
+version: 1.0
+commands:
+  toggleplugin:
+    description: Toggles the plugin.
+    usage: /<command>
+  smite:
+    description: A programmer's bordem at it's finest. (Smites the specified player into the air.)
+    usage: /<command> <player>
